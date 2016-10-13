@@ -2,7 +2,7 @@
   "name": "houra-tmp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "libe/recipe.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
