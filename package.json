@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Gastonite/houra-tmp#readme",
   "peerDependencies": {
     "houra": "git+https://github.com/Gastonite/houra.git#master"
+  },
+  "dependencies": {
+    "vision": "^4.1.0"
   }
 }
