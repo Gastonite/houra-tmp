@@ -1,0 +1,22 @@
+{
+  "name": "houra-tmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gastonite/houra-tmp.git"
+  },
+  "author": "Clément Pasquier <clement@n00sphere.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gastonite/houra-tmp/issues"
+  },
+  "homepage": "https://github.com/Gastonite/houra-tmp#readme",
+  "peerDependencies": {
+    "houra": "git+https://github.com/Gastonite/houra.git#master"
+  }
+}
